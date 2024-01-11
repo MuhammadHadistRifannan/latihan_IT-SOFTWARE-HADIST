@@ -1,0 +1,14 @@
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\bin\Debug\latihanCRUD1.exe.config
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\bin\Debug\latihanCRUD1.exe
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\bin\Debug\latihanCRUD1.pdb
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\bin\Debug\MySql.Data.dll
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\bin\Debug\MySql.Data.xml
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.csproj.AssemblyReference.cache
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.Properties.Resources.resources
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.csproj.GenerateResource.cache
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.csproj.CoreCompileInputs.cache
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.csproj.CopyComplete
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.exe
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.pdb
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.LoginPage.resources
+C:\Users\Ipanjabar\source\repos\latihanCRUD1\latihanCRUD1\obj\Debug\latihanCRUD1.LoadingFormcs.resources
